@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Home"
+        android:id="@+id/nav_item_home"
+        android:icon="@drawable/ic_action_search"/>
+
+
+
+
+
+    <item android:title="Category">
+        <menu>
+            <item
+                android:id="@+id/nav_item_blood_pressure"
+                android:title="Blood Pressure"
+
+                android:icon="@drawable/ic_action_search"/>
+            <item
+                android:id="@+id/nav_item_children"
+                android:title="Children"
+                android:icon="@drawable/ic_action_search"/>
+            <item
+                android:id="@+id/nav_item_diabetes"
+                android:title="Diabetes"
+                android:icon="@drawable/ic_action_search"/>
+            <item
+                android:id="@+id/nav_item_fat_loss"
+                android:title="Fat Loss"
+                android:icon="@drawable/ic_action_search"/>
+            <item
+                android:id="@+id/nav_item_pregnancy"
+            android:title="Pregnancy"
+            android:icon="@drawable/ic_action_search"/>
+            <item
+                android:id="@+id/nav_item_weight_loss"
+            android:title="Weight Loss"
+            android:icon="@drawable/ic_action_search"/>
+
+
+        </menu>
+    </item>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_item_setting"
+                android:title="Setting"
+                android:icon="@drawable/ic_action_search"/>
+            <item
+                android:id="@+id/nav_item_about_us"
+                android:title="About Us"
+                android:icon="@drawable/ic_action_search"/>
+
+
+        </menu>
+    </item>
+</menu>

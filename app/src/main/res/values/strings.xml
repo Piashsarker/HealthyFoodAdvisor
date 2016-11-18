@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Healthy Food Advisor</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="action_settings">Setting</string>
+    <string name="action_search">Search</string>
+
+
+
+    <string name="nav_item_about_us">About Us</string>
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_blood_pressure">Blood Pressure</string>
+    <string name="nav_item_children"> Children</string>
+    <string name="nav_item_diabetes"> Diabetes</string>
+    <string name="nav_item_fat_loss"> Fat Loss</string>
+    <string name="nav_item_pregnancy">Pregnancy</string>
+    <string name="nav_item_setting">Setting</string>
+    <string name="nav_item_weight_loss">Weight Loss</string>
+
+
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_blood_pressure</item>
+        <item>@string/nav_item_children</item>
+        <item>@string/nav_item_diabetes</item>
+        <item>@string/nav_item_fat_loss</item>
+        <item>@string/nav_item_pregnancy</item>
+        <item>@string/nav_item_weight_loss</item>
+        <item>@string/nav_item_setting</item>
+        <item>@string/nav_item_about_us</item>
+
+
+    </string-array>
+
+
+
+    <string name="title_home">Home</string>
+    <string name="title_about_us">About Us</string>
+    <string name="title_blood_pressure">Blood Pressure</string>
+    <string name="title_children"> Children</string>
+    <string name="title_diabetes"> Diabetes</string>
+    <string name="title_fat_loss"> Fat Loss</string>
+    <string name="title_pregnancy">Pregnancy</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_weight_loss">Weight Loss</string>
+
+</resources>
